@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bollo-playlist/static/css/main.f29ae65a.chunk.css",
-    "main.js": "/bollo-playlist/static/js/main.50a78989.chunk.js",
-    "main.js.map": "/bollo-playlist/static/js/main.50a78989.chunk.js.map",
+    "main.js": "/bollo-playlist/static/js/main.89f8dcbf.chunk.js",
+    "main.js.map": "/bollo-playlist/static/js/main.89f8dcbf.chunk.js.map",
     "runtime-main.js": "/bollo-playlist/static/js/runtime-main.b7fbe997.js",
     "runtime-main.js.map": "/bollo-playlist/static/js/runtime-main.b7fbe997.js.map",
     "static/js/2.567a2e2b.chunk.js": "/bollo-playlist/static/js/2.567a2e2b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b7fbe997.js",
     "static/js/2.567a2e2b.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.50a78989.chunk.js"
+    "static/js/main.89f8dcbf.chunk.js"
   ]
 }
