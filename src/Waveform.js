@@ -66,11 +66,6 @@ class Waveform extends Component {
       this.stopPlay()
       const track = document.querySelector('#track' + this.props.url.substr(-8))
       this.waveform.load(track)
-      // this.waveform.on('ready', () => {
-      //   this.ready(true)
-      //   this.setState({ playing: true })
-      //   this.waveform.play()
-      // })
     }
   }
 
