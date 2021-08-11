@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.f29ae65a.chunk.css",
-    "main.js": "./static/js/main.0afb52e2.chunk.js",
-    "main.js.map": "./static/js/main.0afb52e2.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.e5a848a5.js",
-    "runtime-main.js.map": "./static/js/runtime-main.e5a848a5.js.map",
-    "static/js/2.f2f4c557.chunk.js": "./static/js/2.f2f4c557.chunk.js",
-    "static/js/2.f2f4c557.chunk.js.map": "./static/js/2.f2f4c557.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "./static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.f2f4c557.chunk.js.LICENSE.txt": "./static/js/2.f2f4c557.chunk.js.LICENSE.txt"
+    "main.css": "/bollo-playlist/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/bollo-playlist/static/js/main.50a78989.chunk.js",
+    "main.js.map": "/bollo-playlist/static/js/main.50a78989.chunk.js.map",
+    "runtime-main.js": "/bollo-playlist/static/js/runtime-main.b7fbe997.js",
+    "runtime-main.js.map": "/bollo-playlist/static/js/runtime-main.b7fbe997.js.map",
+    "static/js/2.567a2e2b.chunk.js": "/bollo-playlist/static/js/2.567a2e2b.chunk.js",
+    "static/js/2.567a2e2b.chunk.js.map": "/bollo-playlist/static/js/2.567a2e2b.chunk.js.map",
+    "index.html": "/bollo-playlist/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "/bollo-playlist/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.567a2e2b.chunk.js.LICENSE.txt": "/bollo-playlist/static/js/2.567a2e2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5a848a5.js",
-    "static/js/2.f2f4c557.chunk.js",
+    "static/js/runtime-main.b7fbe997.js",
+    "static/js/2.567a2e2b.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0afb52e2.chunk.js"
+    "static/js/main.50a78989.chunk.js"
   ]
 }
